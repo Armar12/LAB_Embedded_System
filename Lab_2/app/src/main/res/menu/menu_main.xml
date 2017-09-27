@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item
+        android:id="@+id/menuPtrType"
+        android:title="Type"
+        android:orderInCategory="1">
+
+        <menu>
+             <item
+                   android:id="@+id/menuPtrBall"
+                   android:title="Ball"
+                   android:orderInCategory="1"/>
+             <item
+                   android:id="@+id/menuPtrSquare"
+                   android:title="Square"
+                   android:orderInCategory="2"/>
+             <item
+                   android:id="@+id/menuPtrDiamond"
+                   android:title="Diamond"
+                   android:orderInCategory="3"/>
+             <item
+                   android:id="@+id/menuPtrArc"
+                   android:title="Arc"
+                   android:orderInCategory="4"/>
+         </menu>
+    </item>
+
+    <item
+        android:id="@+id/menuPtrColor"
+        android:title="Color"
+        android:orderInCategory="2">
+
+        <menu>
+            <item
+                android:id="@+id/menuPtrRed"
+                android:title="Red"
+                android:orderInCategory="1"/>
+            <item
+                android:id="@+id/menuPtrBlue"
+                android:title="Blue"
+                android:orderInCategory="2"/>
+            <item
+                android:id="@+id/menuPtrGreen"
+                android:title="Green"
+                android:orderInCategory="3"/>
+            <item
+                android:id="@+id/menuPtrWhite"
+                android:title="White"
+                android:orderInCategory="4"/>
+        </menu>
+    </item>
+
+
+</menu>
+

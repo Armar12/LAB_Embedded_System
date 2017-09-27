@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+
+    android:layout_width="fill_parent"
+
+    android:layout_height="fill_parent"
+    android:background="@color/black">
+
+    <TextView
+
+        android:id = "@+id/titleName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/snow"
+        android:text="@string/title"/>
+
+    <ImageView
+        android:id = "@+id/ivPicture"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/one"/>
+
+    <TextView
+        android:id = "@+id/result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:textColor="@color/snow"
+        android:text="@string/result1"/>
+
+    <Button
+        android:id="@+id/btnThrow"
+        android:text="Throw"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+
+
+</LinearLayout>

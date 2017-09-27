@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LabAssignment_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Assign_1</string>
+    <string name="one">one</string>
+    <string name="result1">Result: 1</string>
+    <string name="result2">Result: 2</string>
+    <string name="result3">Result: 3</string>
+    <string name="result4">Result: 4</string>
+    <string name="result5">Result: 5</string>
+    <string name="result6">Result: 6</string>
+</resources>
