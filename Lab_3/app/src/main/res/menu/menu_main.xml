@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ece.course.lab_3.MainActivity">
+    <item
+        android:id="@+id/menuTakePicture"
+        android:title="Take Picture" />
+    <item
+        android:id="@+id/menuRecordVideo"
+        android:title="Record Video"/>
+    <item
+        android:id="@+id/menuStopRecord"
+        android:title="Stop Record"/>
+</menu>
