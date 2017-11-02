@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 2.3.3">
+
+    <issue
+        id="WifiManagerLeak"
+        severity="Fatal"
+        message="The WIFI_SERVICE must be looked up on the Application context or memory will leak on devices &lt; Android N. Try changing `` to `.getApplicationContext()` "
+        category="Correctness"
+        priority="6"
+        summary="WifiManager Leak"
+        explanation="On versions prior to Android N (24), initializing the `WifiManager` via `Context#getSystemService` can cause a memory leak if the context is not the application context. Change `context.getSystemService(...)` to `context.getApplicationContext().getSystemService(...)`."
+        errorLine1="        mWifiManager = (WifiManager) getSystemService(WIFI_SERVICE);"
+        errorLine2="                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\nzhou\Downloads\Lab3_2017\USTECE_Lab3_4\app\src\main\java\course\elec4010b\lab_4_4\MainActivity.java"
+            line="48"
+            column="38"/>
+    </issue>
+
+</issues>

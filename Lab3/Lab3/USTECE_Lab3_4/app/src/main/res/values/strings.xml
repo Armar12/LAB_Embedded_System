@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ELEC4010B_Lab_4_4</string>
+    <string name="btnConnect">Connect To</string>
+    <string name="btnPictureCapture">Capture</string>
+    <string name="btnVideoRecordingStart">Start</string>
+    <string name="btnVideoRecordingStop">Stop</string>
+    
+    <string name="btnOkay">Okay</string>
+    <string name="btnCancel">Cancel</string>
+    
+    <string name="tvConnectionTitle">Network</string>
+    <string name="tvConnectionStateLabel">State:</string>
+    <string name="tvPicture">Taking Picture</string>
+    <string name="tvVideo">Recording Video</string>
+    
+    <string name="tvHostLabel">Host:</string>
+
+    <string name="stateNotConnected">Not Connected</string>
+    <string name="stateConnecting">Connecting</string>
+    <string name="stateConnected">Connected</string>
+    <string name="stateConnectLost">Connection Lost</string>
+    
+    <string name="msgPictureCapture">Picture Captured!!</string>
+    <string name="msgVideoRecordingStart">Video Recording Started!!</string>
+    <string name="msgVideoRecordingStop">Video Recording Stopped</string>
+</resources>

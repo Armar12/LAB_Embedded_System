@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nzhou\Downloads\Lab3_2017\USTECE_Lab3_4\app\libs\Lab_4_Lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11f2f40a78f7a537a17a03d96f56bb615f0a611d">
+        <dex dex="C:\Users\nzhou\Downloads\Lab3_2017\USTECE_Lab3_4\app\build\intermediates\pre-dexed\debug\Lab_4_Lib_7377987a6c3399491dd34d01cbfc50356c5d7ed4.jar" />
+    </item>
+
+</items>

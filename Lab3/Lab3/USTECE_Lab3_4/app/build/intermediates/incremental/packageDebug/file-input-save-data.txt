@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Oct 12 12:40:41 CST 2017
+2.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-ldpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\network_connection.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\nzhou\\Downloads\\Lab3_2017\\USTECE_Lab3_4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.set=ANDROID_RESOURCE

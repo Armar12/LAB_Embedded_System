@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\2016\lab_4_4\app\libs\Lab_4_Lib.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11f2f40a78f7a537a17a03d96f56bb615f0a611d">
+        <dex dex="D:\2016\lab_4_4\app\build\intermediates\pre-dexed\release\Lab_4_Lib-b58dcbfd26577c39a4bcd20cbaccc8d1d59c52b2.jar" />
+    </item>
+
+</items>
